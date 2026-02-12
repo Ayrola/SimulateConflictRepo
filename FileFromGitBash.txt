@@ -1,2 +1,4 @@
 This file was commited from git bash.
+<<<<<<< HEAD
 This is second change from desktop.
+=======
